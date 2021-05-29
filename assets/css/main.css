@@ -1909,7 +1909,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #2e42b1 !important;
+			color: #717277 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2350,7 +2350,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #2e42b1;
+			background: #717277;
 		}
 
 		select:focus::-ms-value {
@@ -2438,7 +2438,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #606fee;
 			content: '\f00c';
 		}
 
@@ -2519,7 +2519,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #2e42b1;
+			color: #717277;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2530,7 +2530,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #606fee;
+					color: #b2b4c9;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -2546,11 +2546,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #606fee;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #4c5df8;
 				}
 
 /* Image */
@@ -3234,7 +3234,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #606fee;
+			background-color: #b2b4c9;
 		}
 
 		.wrapper.style1-alt {
@@ -3250,11 +3250,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #606fee;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #4c5df8;
 		}
 
 		.wrapper.fullscreen {
@@ -3364,7 +3364,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #606fee;
+		background-color: #b2b4c9;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3518,7 +3518,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #2e42b1;
+		background: #717277;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3851,7 +3851,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #606fee;
 						}
 
 		}
