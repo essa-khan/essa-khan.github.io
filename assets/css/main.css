@@ -3234,7 +3234,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #b2b4c9;
+			background-color: #86878d;
 		}
 
 		.wrapper.style1-alt {
@@ -3364,7 +3364,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #b2b4c9;
+		background-color: #86878d;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
