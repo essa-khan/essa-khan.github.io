@@ -3365,6 +3365,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		background-color: #76777e;
+		background-image: "images/computer.gif";
 		cursor: default;
 		padding: 1.75em 2em;
 	}
