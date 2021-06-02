@@ -3526,9 +3526,7 @@ input, select, textarea {
 		overflow-x: hidden;
 		overflow-y: auto;
 		position: fixed;
-		text-align: right;
 		top: 0;
-		width: 18em;
 		z-index: 10000;
 	}
 
