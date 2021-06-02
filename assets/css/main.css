@@ -3460,7 +3460,7 @@ input, select, textarea {
 /* Wrapper (main) */
 
 	#sidebar + #wrapper {
-		margin-left: 18em;
+		margin-left: 15em;
 	}
 
 		@media screen and (max-width: 1280px) {
@@ -3527,6 +3527,7 @@ input, select, textarea {
 		overflow-y: auto;
 		position: fixed;
 		top: 0;
+		width: 15em;
 		z-index: 10000;
 	}
 
